@@ -1,0 +1,19 @@
+body
+{
+ background-color: #c7e3e4;
+ font-family: cursive;
+}
+h2
+{
+
+    padding-top: 50px;
+    font-size: 30px;
+
+}
+p
+{
+    color: rgb(114, 4, 4);
+    font-size: 25px;
+    font-family:cursive;
+    /* float: left; */
+}
